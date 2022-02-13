@@ -126,23 +126,23 @@ header .logo {
 }
 
 #Animals {
-    background-image: url(../images/bg-A.jpg);
+    background-image: url("./images/bg-A.jpg");
 }
 
 #Environment {
-    background-image: url(../images/bg-E-1.jpg);
+    background-image: url("./images/bg-E-1.jpg");
 }
 
 #HistoryCulture {
-    background-image: url(../images/bg-H.jpg);
+    background-image: url("./images/bg-H.jpg");
 }
 
 #Science {
-    background-image: url(../images/bg-S-1.jpg);
+    background-image: url("./images/bg-S-1.jpg");
 }
 
 #Travel {
-    background-image: url(../images/bg-T-2.jpg);
+    background-image: url("./images/bg-T-2.jpg");
 }
 
 .section-bg > h2  {
