@@ -62,7 +62,7 @@ header .logo {
 #gnb > ul > li {
     float: left;
     margin-left: 10px;
-    min-width: 140px;
+    min-width: 130px;
     text-align: left;
     /* outline: 2px solid red; */
 
