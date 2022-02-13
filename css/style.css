@@ -33,6 +33,7 @@ header .logo {
 }
 
 #gnb {
+    width: auto;
     position: absolute;
     right: 13px;
     top: 30px;
@@ -108,7 +109,7 @@ header .logo {
     width: 100%;
     height: 600px;
     /* background-color: #666; */
-    background-size: 100% 100%;
+    background-size: 100%;
     background-position: center;
     display: flex;
     justify-content: center;
@@ -127,24 +128,24 @@ header .logo {
 }
 
 #animals {
-    background-image: url('../images/bg-A.png');
-    background-size: 100% 100%;
+    background-image: url('/images/bg-A.png');
+    ;
 }
 
 #environment {
-    background-image: url('../images/bg-E-1.png');
+    background-image: url('/images/bg-E-1.png');
 }
 
 #historyculture {
-    background-image: url('../images/bg-H.png');
+    background-image: url('/images/bg-H.png');
 }
 
 #science {
-    background-image: url('../images/bg-S-1.png');
+    background-image: url('/images/bg-S-1.png');
 }
 
 #travel {
-    background-image: url('../images/bg-T-2.png');
+    background-image: url('/images/bg-T-2.png');
 }
 
 .section-bg > h2  {
